@@ -31,6 +31,7 @@ Follow prompts to input laptop features for prediction.
 
 ## Model Notes
 
-- Random Forest Regressor is the default model; you can easily swap for others in `laptop_price_analysis.py`.
+- Random Forest Regressor is the default model; we can easily swap for others in `laptop_price_analysis.py`.
 - Include features like processor, GPU, OS, and spec_rating for better accuracy.
 - Analyze and tune using feature importances and real row comparisons.
+
